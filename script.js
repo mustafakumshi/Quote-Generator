@@ -17,10 +17,10 @@ const quotes = [{
     quote: `"I kept always two books in my pocket, one to read, one to write in."`,
     person: `Robert Louis Stevenson`
 }, {
-    quote: `If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.`,
+    quote: `"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success."`,
     person: `James Cameron`
 }, {
-    quote: `Many of life's failures are people who did not realize how close they were to success when they gave up. `,
+    quote: `"Many of life's failures are people who did not realize how close they were to success when they gave up."`,
     person: `Thomas A. Edison`
 }, {
     quote: `"Life is what happens when you're busy making other plans."`,
